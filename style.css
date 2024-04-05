@@ -23,7 +23,7 @@ figure .image img {
 	overflow-y: scroll;
 }
 
-.title {
+h1.title {
 	display: flex;
 	align-items: center;
 	justify-content: center;
